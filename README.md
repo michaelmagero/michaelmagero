@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I push pixels and tinker with "impossibilities" to create beautiful web experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleymasinde&label=Profile%20views&color=0e75b6&style=flat" alt="stanleymasinde" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/10089824?v=4" alt="mikemagero" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanleymasinde" alt="stanleymasinde" /></a> </p>
 
