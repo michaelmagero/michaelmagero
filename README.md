@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I write code for a living</h3>
+<h3 align="center">I push pixels and tinker with "impossibilities" to create beautiful web experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleymasinde&label=Profile%20views&color=0e75b6&style=flat" alt="stanleymasinde" /> </p>
 
