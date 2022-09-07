@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I push pixels and tinker with ideas to create beautiful web experiences</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/10089824?v=4" alt="mikemagero" /> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
