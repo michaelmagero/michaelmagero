@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/10089824?v=4" alt="mikemagero" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
