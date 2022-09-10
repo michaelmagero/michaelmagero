@@ -24,22 +24,21 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Backend Engi
 ```tsx
 <?php
 
-Class BackendEngineer
+class BackendEngineer
 {
   
-  public function __construct(public string $name = "mike magero", public string $country = "Nairobi, Kenya")
-  {}
+  public string $name; 
+  public string $country;
   
   
   public function aboutMe($name, $country): string
   {
-    return "I am ". $name . " and i am a passionate backend engineer from " .$country;
+    return "I am ". $name . " and I am a passionate Backend Engineer from " .$country;
   }
 }
 
-$newEngineer = new Engineer();
-echo $newengineer->aboutMe($name, $country)
-
+$newEngineer = new BackendEngineer();
+echo $newEngineer->aboutMe("Mike Magero", "Nairobi Kenya")
 
 ```
 
