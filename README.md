@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Developer 🚀 from Kenya.
+Hi, I'm [Michael Magero!](https://www.masila.ml/), a passionate Fullstack Developer from Kenya.
 
 <img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="400" height="320" />
 
@@ -19,28 +19,24 @@ Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Deve
 - 🌱 I’m currently learning Typescript ;
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [@abel_masila](https://twitter.com/abel_masila) ;
-- 📝 [Resume](https://drive.google.com/file/d/0B_lP6TceTGwgbGlJUjBoSzhzOEhKZDctOFlSdkcyRjY0QnBN/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1M7eUv2OAh75A80mf8Rm0yWAHf1QOLmV-/view?usp=sharing)
 
 ```tsx
-import React from 'react';
+<?php
 
-const Profile: React.FC = () => {
-  return (
-    <h3>A passionate JavaScript engineer from Kenya!</h3>
-  );
-};
-
-export default Profile;
+public function aboutMe(): string
+{
+  return "A dedicated backend Engineer from Nairobi Kenya";
+}
 ```
 
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
