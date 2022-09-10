@@ -18,7 +18,7 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Backend Engi
 - 👨🏽‍💻 I’m currently working on cool apps such as @haftstudio ;
 - 🌱 I’m currently learning Typescript ;
 - 💬 Ask me about anything, I am happy to help ;
-- 📫 How to reach me: [@TattedTechBro](https://twitter.com/abel_masila) ;
+- 📫 How to reach me: [@TattedTechBro](https://twitter.com/tattedtechbro) ;
 - 📝 [Resume](https://drive.google.com/file/d/1M7eUv2OAh75A80mf8Rm0yWAHf1QOLmV-/view?usp=sharing)
 
 ```tsx
@@ -38,5 +38,4 @@ public function aboutMe(): string
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
