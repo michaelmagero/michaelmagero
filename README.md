@@ -26,7 +26,7 @@ Hi, I'm [Michael Magero!](https://www.mikemagero.co.ke/), a passionate Backend E
 
 public function aboutMe(): string
 {
-  return "A dedicated backend Engineer from Nairobi Kenya";
+  return "A passionate backend Engineer from Nairobi Kenya";
 }
 ```
 
