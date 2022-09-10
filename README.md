@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Backend Engineer from Kenya.
+Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Backend Engineer from Nairobi Kenya.
 
 <img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="400" height="320" />
 
