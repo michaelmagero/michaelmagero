@@ -15,7 +15,7 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Backend Engi
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on cool apps such as @haftstudio ;
+- 👨🏽‍💻 I’m currently working on cool apps ;
 - 🌱 I’m currently learning Python ;
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [@TattedTechBro](https://twitter.com/tattedtechbro) ;
