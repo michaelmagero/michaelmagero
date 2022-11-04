@@ -21,26 +21,6 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Eng
 - 📫 How to reach me: [@TattedTechBro](https://twitter.com/tattedtechbro) ;
 - 📝 [Resume](https://drive.google.com/file/d/1M7eUv2OAh75A80mf8Rm0yWAHf1QOLmV-/view?usp=sharing)
 
-```tsx
-<?php
-
-class BackendEngineer
-{
-  
-  public string $name; 
-  public string $country;
-  
-  
-  public function aboutMe($name, $country): string
-  {
-    return "I am ". $name . " and I am a passionate Backend Engineer from " .$country;
-  }
-}
-
-$newEngineer = new BackendEngineer();
-echo $newEngineer->aboutMe("Mike Magero", "Nairobi Kenya")
-
-```
 
 **Languages and Tools:**
 
