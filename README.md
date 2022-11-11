@@ -16,8 +16,7 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Eng
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on cool apps ;
-- 🌱 I’m currently learning ReactJs ;
-- 💬 Ask me about anything, I am happy to help ;
+- 🌱 I’m currently learning VueJs ;
 - 📫 How to reach me: [@TattedTechBro](https://twitter.com/tattedtechbro) ;
 - 📝 [Resume](https://drive.google.com/file/d/1M7eUv2OAh75A80mf8Rm0yWAHf1QOLmV-/view?usp=sharing)
 
