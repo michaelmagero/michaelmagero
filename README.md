@@ -17,7 +17,7 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Eng
 
 - 👨🏽‍💻 I’m currently working on cool apps ;
 - 🌱 I’m currently learning VueJs ;
-- 📫 How to reach me: [@TattedTechBro](https://twitter.com/tattedtechbro) ;
+- 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) ;
 - 📝 [Resume](https://drive.google.com/file/d/1tWM5iQlvFA7jR11V15EUrTjcL6Bjmt1m/view?usp=sharing)
 
 
