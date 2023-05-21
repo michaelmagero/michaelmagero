@@ -3,7 +3,7 @@
 <a href="https://twitter.com/tattedtechbro">
   <img align="left" alt="Michael Magero | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mike-magero">
+<a href="https://www.linkedin.com/in/michael-magero">
   <img align="left" alt="Michaels LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
