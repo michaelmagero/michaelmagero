@@ -30,3 +30,9 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Eng
 <code><img height="40" width="40"  src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+** Stats:**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaelmagero&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmagero&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
