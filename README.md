@@ -9,7 +9,6 @@
 
 Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer and open a new repository every other day to test out ideas and fork interesting repos that i can learn and contribute to.
 
-<img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="400" height="320" />
 
 **Talking about Personal Stuffs:**
 
