@@ -17,6 +17,7 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Eng
 
 - 👨🏽‍💻 I’m currently working on <a href="https://github.com/michaelmagero/larapesa">LaraPesa</a>;
 - 🌱 I’m currently learning VueJs and NuxtJs ;
+- 🥁 I enjoy playing drums and producing music; 
 - 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) ;
 - 📝 [Resume](https://drive.google.com/file/d/14yqxtXiJaIu9iUStEYMxVdwmkWY2JXiq/view)
 
