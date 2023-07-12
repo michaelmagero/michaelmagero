@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/michael-magero">
-  <img align="left" alt="Michaels LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Michaels LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <br />
 <br />
