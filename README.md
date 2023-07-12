@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/michael-magero">
-  <img align="left" alt="Michaels LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/>
+  <img align="left" alt="Michaels LinkedIn" width="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/>
 </a>
 <br />
 <br />
