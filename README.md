@@ -34,14 +34,3 @@ Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a Software Engineer from 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></code>
-
-
-
-
-**Stats:**
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaelmagero&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmagero&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
