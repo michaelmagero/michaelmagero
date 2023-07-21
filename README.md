@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a passionate Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who opens a new repository every other day to test out ideas and fork interesting repos that i can learn and contribute to.
+Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who opens a new repository every other day to test out ideas and fork interesting repos that i can learn and contribute to.
 
 
 **Talking about Personal Stuffs:**
