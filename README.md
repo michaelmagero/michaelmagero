@@ -5,12 +5,12 @@
 
 
 <a href="https://www.linkedin.com/in/michael-magero">
-  <img align="left" alt="Michaels LinkedIn" width="150" height="100" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/>
+  <img align="left" alt="Michaels LinkedIn" width="100" height="100" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/>
 </a>
 <br>
 <br>
 
-Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who opens a new repository every other day to test out ideas and fork interesting repos that i can learn and contribute to.
+**Hi, I'm [Mike Magero!](https://www.mikemagero.co.ke/), a Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who opens a new repository every other day to test out ideas and fork interesting repos that i can learn and contribute to.
 
 
 **Talking about Personal Stuffs:**
