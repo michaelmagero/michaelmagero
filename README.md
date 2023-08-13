@@ -28,6 +28,11 @@ Hi, I'm [Mike Magero](https://www.mikemagero.co.ke/), a Software Engineer from N
 <code><img height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></code>
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=michaelmagero&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmagero&hide=TeX&layout=compact)
+
+
 <a href="https://www.linkedin.com/in/michael-magero">
   <img align="left" alt="Michaels LinkedIn" width="100" height="100" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/>
 </a><br/>
