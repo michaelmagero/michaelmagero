@@ -7,10 +7,10 @@ Hi, I'm [Mike Magero](https://www.mikemagero.co.ke/), a Software Engineer from N
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on <a href="https://ekhaya.io">Ekhaya</a>;
-- 🌱 I’m currently learning Typescript and ReactJS ;
-- 🥁 I enjoy playing drums and producing music; 
-- 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) ;
+- 👨🏽‍💻 I’m currently working on <a href="https://ekhaya.io">Ekhaya</a>
+- 🌱 I’m currently learning Typescript and ReactJS 
+- 🥁 I enjoy playing drums and producing music
+- 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) 
 - 📝 [Resume](https://drive.google.com/file/d/14yqxtXiJaIu9iUStEYMxVdwmkWY2JXiq/view)
 
 
