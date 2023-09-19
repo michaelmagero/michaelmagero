@@ -11,7 +11,7 @@ Hi, I'm [Mike Magero](https://www.mikemagero.co.ke/), a Software Engineer from N
 - 🌱 I’m currently learning Typescript and ReactJS 
 - 🥁 I enjoy playing drums and producing music
 - 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) 
-- 📝 My Resume [Resume](https://drive.google.com/file/d/1qqIcbAIun15BAkklfC77R37ZkUkPMf8j/view?usp=sharing)
+- 📝 My Resume [Resume](https://drive.google.com/file/d/1tyF6K97Ryk_Jh-fW1vszdb6o49raboiH/view?usp=sharing)
 
 
 **Languages and Tools:**
