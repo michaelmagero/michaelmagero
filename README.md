@@ -1,5 +1,5 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Magero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 Hi, I'm [Mike Magero](https://www.mikemagero.co.ke/), a Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who opens a new repository every other day to test out ideas and fork interesting repos that i can learn and contribute to.
