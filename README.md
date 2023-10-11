@@ -7,7 +7,6 @@ Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who open
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on <a href="https://ekhaya.io">Ekhaya</a>
 - 🌱 I’m currently learning Typescript and ReactJS 
 - 🥁 I enjoy playing drums and producing music
 - 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) 
