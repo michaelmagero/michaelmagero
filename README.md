@@ -7,7 +7,7 @@ Software Engineer from Nairobi Kenya. I am an avid learner and tinkerer who open
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Typescript and ReactJS 
+- 🌱 I’m currently learning Go and TypeScript 
 - 🥁 I enjoy playing drums and producing music
 - 📫 How to reach me: [MikeMagero](mailto:michaelmagero2@gmail.com) 
 - 📝 My Resume [Resume](https://drive.google.com/file/d/1tyF6K97Ryk_Jh-fW1vszdb6o49raboiH/view?usp=sharing)
