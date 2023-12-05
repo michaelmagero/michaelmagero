@@ -5,7 +5,7 @@
 Backend Engineer Based in Nairobi Kenya.
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🌱 I’m currently learning Go and TypeScript 
 - 🥁 I enjoy playing drums and producing music
